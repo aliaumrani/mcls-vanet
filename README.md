@@ -1,5 +1,5 @@
 # mcls-vanet
- Multi-receiver Certificateless Signcryption Scheme for VANETs
+ An Anonymous Multi-receiver Certificateless Hybrid Signcryption cryptogrpahic scheme implementation in Python
 ## Description
 
   
