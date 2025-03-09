@@ -26,4 +26,7 @@ It performs:
 `pip install cryptography ecdsa`
 
 ## Code Structure
-|Elliptic curve key generation | Generates ECC-based private and public keys|
+| Operation | Description |
+| --------- | ----------- |
+| Elliptic curve key generation | Generates ECC-based public and private keys |
+
