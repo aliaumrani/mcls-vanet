@@ -8,24 +8,24 @@ Certificateless public key cryptography requires a trusted third party called (a
 ### Hybrid Signcryption
 Signcryption is an asymmetric key cryptography technique that combines digital signature and encryption operations to generate a signcrypted ciphertext `CT`. Whereas hybrid signcryption combines symmetric and asymmetric key cryptography that provides asymmetric signature and symmetric encryption. 
 
-# Implementation
+## Implementation
 This project implements Elliptic Curve Signcryption using  ECDSA (Elliptic Curve Digital Signature Algorithm) and AES (Advanced Encryption Standard) for secure communication.
 It performs:
  - Key generation using elliptic curve
  - Diffie-Hellman (ECDH) key exchange
  - Hybrid Signcryption (ECDSA + AES)
  - Unsigncryption (Message verification)
-## Features
+### Features
 - Elliptic Curve Key Generation (NIST  P-256)
 - Partial and Full Key Computation
 - Signcryption using AES+ECC
 - ECDSA Digital Signature and Verification
 - SHA-256 Hashing for Key Derivation
 
-## Dependencies 
+### Dependencies 
 `pip install cryptography ecdsa`
 
-## Code Structure
+### Code Structure
 | Operation | Description |
 | --------- | ----------- |
 | Elliptic curve key generation | Generates ECC-based public and private keys |
