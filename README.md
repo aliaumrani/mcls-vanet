@@ -16,3 +16,14 @@ It performs:
  - Hybrid Signcryption (ECDSA + AES)
  - Unsigncryption (Message verification)
 ## Features
+- Elliptic Curve Key Generation (NIST  P-256)
+- Partial and Full Key Computation
+- Signcryption using AES+ECC
+- ECDSA Digital Signature and Verification
+- SHA-256 Hashing for Key Derivation
+
+## Dependencies 
+`pip install cryptography ecdsa`
+
+## Code Structure
+|Elliptic curve key generation | Generates ECC-based private and public keys|
