@@ -38,5 +38,13 @@ It performs:
 `pip install ecdsa`
 
 ### Import Statements
-`import ecdsa<br>from ecdsa.util import sigencode_der, sigdecode_der`
+`import ecdsa`  
+`from ecdsa.util import sigencode_der, sigdecode_der`  
+`from cryptography.hazmat.primitives.asymmetric import ec`  
+`from cryptography.hazmat.primitives import serialization`  
+`from cryptography.hazmat.backends import default_backend`  
+`from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes`  
+`import os`  
+`import hashlib`  
+`import secrets`
 
