@@ -48,3 +48,6 @@ It performs:
 `import hashlib`  
 `import secrets`
 
+#### Run the code
+ [mcls-vanet.py](mcls-vanet.py)
+
