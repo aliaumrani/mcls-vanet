@@ -38,5 +38,5 @@ It performs:
 `pip install ecdsa`
 
 ### Import Statements
-`import ecdsa\nfrom ecdsa.util import sigencode_der, sigdecode_der`
+`import ecdsa<br>from ecdsa.util import sigencode_der, sigdecode_der`
 
