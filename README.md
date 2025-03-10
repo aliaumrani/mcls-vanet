@@ -22,9 +22,6 @@ It performs:
 - ECDSA Digital Signature and Verification
 - SHA-256 Hashing for Key Derivation
 
-### Dependencies 
-`pip install cryptography ecdsa`
-
 ### Code Structure
 | Operation | Description |
 | --------- | ----------- |
@@ -33,3 +30,13 @@ It performs:
 | Unsigncryption | Decrypts message and verifies signature |
 | AES Encryption | Encrypts message using AES in CFB mode |
 
+# Installation
+
+### Dependencies 
+`pip install cryptography ecdsa` or
+`pip install cryptography`
+`pip install ecdsa`
+
+### Import Statements
+`import ecdsa` #kjh
+`from ecdsa.util import sigencode_der, sigdecode_der`
