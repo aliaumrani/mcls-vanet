@@ -49,5 +49,6 @@ It performs:
 `import secrets`
 
 #### Run the code
- [mcls-vanet.py](mcls-vanet.py)
-
+ The python implementation is available at [mcls-vanet.py](mcls-vanet.py)
+## Bibliography
+Umrani, Alia, Apurva K. Vangujar, and Paolo Palmieri. "Anonymous Multi-Receiver Certificateless Hybrid Signcryption for Broadcast Communication." In ICISSP, pp. 733-744. 2024.
