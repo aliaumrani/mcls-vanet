@@ -38,6 +38,6 @@ It performs:
 `pip install ecdsa`
 
 ### Import Statements
-`import ecdsa` #kjh  
-`from ecdsa.util import sigencode_der, sigdecode_der`
+`import ecdsa  
+from ecdsa.util import sigencode_der, sigdecode_der`
 
