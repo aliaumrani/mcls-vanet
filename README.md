@@ -45,7 +45,7 @@ pip install -r requirements.txt
 To run the test with the library please run following:
 
 ```bash
-python mcls-vanet.py <options for tests>
+python [mcls-vanet.py](mcls-vanet.py)
 ```
 
 ### Bibliography 
