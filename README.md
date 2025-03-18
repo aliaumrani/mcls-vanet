@@ -48,5 +48,5 @@ To run the test with the library please run following:
 python [mcls-vanet.py](mcls-vanet.py)
 ```
 
-### Bibliography 
-Alia Umrani, Apurva K. Vangujar, and Paolo Palmieri. "Anonymous Multi-Receiver Certificateless Hybrid Signcryption for Broadcast Communication." In ICISSP, pp. 733-744. 2024.[https://www.scitepress.org/Papers/2024/123534/123534.pdf]
+## Bibliography 
+Alia Umrani, Apurva K. Vangujar, and Paolo Palmieri. "Anonymous Multi-Receiver Certificateless Hybrid Signcryption for Broadcast Communication." In Proceedings of the 10th International Conference on Information Systems Security and Privacy, {ICISSP} 2024, Rome, Italy, February 26-28, 2024, pp. 733-744. [DOI](https://doi.org/10.5220/0012353400003648) [BibTex](https://dblp2.uni-trier.de/rec/conf/icissp/UmraniV024.html?view=bibtex)
