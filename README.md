@@ -28,7 +28,7 @@ Signcryption is an asymmetric key cryptography technique that combines digital s
 | Operation | Description |
 | --------- | ----------- |
 | Elliptic curve key generation | Generates ECC-based public and private keys |
-| Signcryption | Encrypts and Signs messahe using ECDSA and AES |
+| Signcryption | Encrypts and Signs message using ECDSA and AES |
 | Unsigncryption | Decrypts message and verifies signature |
 | AES Encryption | Encrypts message using AES in CFB mode |
 
